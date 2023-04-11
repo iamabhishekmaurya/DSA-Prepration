@@ -19,6 +19,6 @@
 - `nums` contains **distinct** values sorted in **ascending** order.
 - `-104 <= target <= 104`
 
-Practices on: <a href="https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i ">LeetCode</a> <br>
+Practices on: <a href="https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i " target="_blank">LeetCode</a> <br>
 Solution: 
 
